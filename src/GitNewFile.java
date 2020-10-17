@@ -3,5 +3,6 @@ public class GitNewFile {
         System.out.println("这是我新增的一个文件！");
         System.out.println("这是小明提交的代码！");
         System.out.println("这是我的提交");
+        System.out.println("这是小明新功能提交的代码");
     }
 }
